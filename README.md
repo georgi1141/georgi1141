@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @georgi1141
-- 👀 I’m interested in webDevelopement
-- 🌱 I’m currently learning Javascript
+- 👋 Hello world! I’m Georgi!
+- 👀 I’m interested in WebDevelopement.
+- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-georgi1141/georgi1141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me:
+<email g.zh.yanev@gmail.com /email>
+<facebook Georgi Yanev /facebook>
