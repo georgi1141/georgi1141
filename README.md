@@ -9,9 +9,8 @@
 
 
 <div id="header" align="center">
- ![Alt Text](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100"/>
 </div>
-
 
 
 
