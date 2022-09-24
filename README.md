@@ -11,9 +11,3 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="500"/>
 </div>
-
-
-
-
-
-![Alt Text](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
