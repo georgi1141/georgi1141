@@ -1,4 +1,3 @@
-<div id="header" align="center">
 - 👋 Hello World! I’m Georgi!
 - 👀 I’m interested in WebDevelopement.
 - 🌱 I’m currently learning JavaScript!
@@ -9,6 +8,6 @@
 
 
 
-
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="500"/>
 </div>
