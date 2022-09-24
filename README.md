@@ -9,7 +9,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ ![Alt Text](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
 </div>
 
 
