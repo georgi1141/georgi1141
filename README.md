@@ -6,4 +6,4 @@
 <email g.zh.yanev@gmail.com /email>
 <facebook Georgi Yanev /facebook>
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
