@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebDevelopement.
 - 🌱 I’m currently learning JavaScript,HTML and CSS.
 - 💞️ I’m looking to collaborate on Web / JS projects.
-- 📫 How to reach me: My email is g.zh.yanev@gmail.com
+- 📫 How to reach me: g.zh.yanev@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgi1141)](https://github.com/anuraghazra/github-readme-stats)
 
