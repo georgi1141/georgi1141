@@ -1,6 +1,6 @@
 - 👋 Hello World! I’m Georgi!
 - 👀 I’m interested in WebDevelopement.
-- 🌱 I’m currently learning JavaScript,HTML and CSS.
+- 🌱 I’m currently learning JavaScript,HTML and CSS at www.softuni.bg
 - 💞️ I’m looking to collaborate on Web / JS projects.
 - 📫 How to reach me: g.zh.yanev@gmail.com
 
